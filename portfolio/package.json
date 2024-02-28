@@ -15,7 +15,7 @@
   },
   "engine":{
     "npm": "9.8.1",
-    "node": "18.8.0"
+    "node": "18.18.0"
   },
   "scripts": {
     "start": "react-scripts start",
