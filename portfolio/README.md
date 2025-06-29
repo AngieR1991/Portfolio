@@ -1,4 +1,5 @@
-TO VEIW FINAL PRODUCT: angie-portfolio.fly.dev (note: Launching the site may take some time because I used a free hosting service. Please be patient and give it a few minutes :])
+TO VEIW FINAL PRODUCT: angie-portfolio.fly.dev 
+   - note: Launching the site may take some time because I used a free hosting service. Please be patient and give it a few minutes :)
 
 
 # Getting Started with Create React App
