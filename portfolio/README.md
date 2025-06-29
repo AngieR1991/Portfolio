@@ -1,4 +1,4 @@
-TO VEIW FINAL PRODCUT: angie-portfolio.fly.dev
+TO VEIW FINAL PRODUCT: angie-portfolio.fly.dev
 
 
 # Getting Started with Create React App
